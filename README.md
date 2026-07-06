@@ -213,13 +213,13 @@
         // ===== BASE DE DADOS DOS PRODUTOS =====
         const produtosDB = {
             'MAX': [
-                '💊DURATESTON R$150',
-                '💊ENANTATO R$150',
-                '💊MASTERON R$150',
-                '💊STANO R$150',
-                '💊DECA R$150',
-                '💊TREMBO R$150',
-                '💊ENAN DE TREMBO R$150',
+                '💉DURATESTON R$150',
+                '💉ENANTATO R$150',
+                '💉MASTERON R$150',
+                '💉STANO R$150',
+                '💉DECA R$150',
+                '💉TREMBO R$150',
+                '💉ENAN DE TREMBO R$150',
                 '💊OXANDROLONA 10MG',
                 '💊OXANDROLONA 20MG',
                 '💊STANOZOLOL',
@@ -241,12 +241,12 @@
                 '💊DIANABOL'
             ],
             'LANDERLAN': [
-                'ENANTATO R$200',
-                'ENAN DE TREMBO R$200',
-                'MASTERON R$200',
-                'DECA R$200',
-                'DURATESTON R$200',
-                'OXANDROLONA 0.5MG R$240'
+                '💉ENANTATO R$200',
+                '💉ENAN DE TREMBO R$200',
+                '💉MASTERON R$200',
+                '💉DECA R$200',
+                '💉DURATESTON R$200',
+                '💊OXANDROLONA 0.5MG R$240'
             ]
         };
 
